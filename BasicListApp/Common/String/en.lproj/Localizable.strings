@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  BasicListApp
+
+  Created by Luis Belo on 09/03/21.
+  
+*/
+"category_screen_title" = "Categories";
+"category_detail_screen_title" = "Category Detail";
+
+"visit_detail" = "See detail";
+
+"generic_api_error" = "Unable to recover the data, please try again later.";
+"generic_call_failed_error" = "Server unavailable, try again later.";
+
+"alert_error_title" = "Error";
+
+"default_observer_flow_error" = "Unable to process the information, please try again later.";
